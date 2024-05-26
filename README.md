@@ -19,7 +19,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0num4&theme=gruvbox&utcOffset=9)
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=0num4&theme=gruvbox)
+![trophy](https://github-profile-trophy.vercel.app/?username=0num4&theme=gruvbox&rank=-C,-B)
 
 
 <!--
