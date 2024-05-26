@@ -19,24 +19,14 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0num4&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0num4&theme=transparentx)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0num4&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0num4&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0num4&theme=gruvbox&utcOffset=9)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0num4&theme=gruvbox) -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0num4&theme=gruvbox&utcOffset=9) -->
 
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=0num4&theme=transparent&rank=-C,-B)
 
-## with private repos
-![Anurag's GitHub stats](https://github-readme-stats-three-sigma-67.vercel.app/api?username=0num4)
 
-![](http://github-readme-stats-three-sigma-67.vercel.app/api/top-langs?username=0num4&theme=transparentx)
-![](http://github-readme-stats-three-sigma-67.vercel.app/api/wakatime?username=0num4&theme=transparentx)
-![](http://github-readme-stats-three-sigma-67.vercel.app/api/pin?username=0num4&theme=transparentx)
-![](http://github-readme-stats-three-sigma-67.vercel.app/api/gist?username=0num4&theme=transparentx)
-![](http://github-readme-stats-three-sigma-67.vercel.app/api/?username=0num4&theme=transparentx)
-![](http://github-readme-stats-three-sigma-67.vercel.app/api/index?username=0num4&theme=transparentx)
-
-![](http://github-readme-stats-three-sigma-67.vercel.app/api/status/pat-info?username=0num4&theme=transparentx)
 <!--
 **0num4/0num4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
