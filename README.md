@@ -16,13 +16,12 @@
 * 常にリポジトリは動く状態にしておくこと
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0num4&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0num4&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0num4&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0num4&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0num4&theme=transparentx)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0num4&theme=transparent)
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0num4&theme=gruvbox) -->
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0num4&theme=gruvbox&utcOffset=9) -->
 
-![0num4's GitHub stats](https://github-readme-stats.vercel.app/api?username=0num4&show_icons=true&theme=transparent)
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=0num4&theme=gruvbox&rank=-C,-B)
