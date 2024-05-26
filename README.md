@@ -24,7 +24,7 @@
 
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=0num4&theme=gruvbox&rank=-C,-B)
+![trophy](https://github-profile-trophy.vercel.app/?username=0num4&theme=transparent&rank=-C,-B)
 
 
 <!--
